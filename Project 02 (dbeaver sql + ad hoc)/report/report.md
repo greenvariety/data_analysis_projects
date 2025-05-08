@@ -23,9 +23,9 @@
 - query_script.sql – файл с SQL-запросами, выполненными в рамках анализа. 
 - analytical_research.docx – аналитический отчет с выводами по проекту.
 ## Скриншоты проекта:
-![alt text](image.png)
+![alt text](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2002%20(dbeaver%20sql%20%2B%20ad%20hoc)/report/1.png)
 <p align="center"><em>Рис 1 - 1.2. Доля платящих пользователей в разрезе расы персонажа</em></p>
 
 ---
-![alt text](image-1.png)
+![alt text](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2002%20(dbeaver%20sql%20%2B%20ad%20hoc)/report/2.png)
 <p align="center"><em>Рис 2 – 3.1. Зависимость активности игроков от расы персонажа</em></p>
