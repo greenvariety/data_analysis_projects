@@ -47,5 +47,5 @@
 
 ## 📸 Скриншоты проекта
 
-![alt text](ссылка-на-картинку)  
+![alt text](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2003%20(dashboard)/report/1.png)  
 <p align="center"><em>Рис 1 – Скриншот дашборда</em></p>
