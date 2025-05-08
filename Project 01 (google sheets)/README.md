@@ -1,6 +1,6 @@
-# 📊 Проект: Project 01 (google sheets)
+# Проект: Project 01 (google sheets)
 
-## 🔍 Быстрый доступ
+## Быстрый доступ
 | Раздел     | Описание           | Прямые ссылки |
 |------------|--------------------|---------------|
-| **Report** | Отчёт по проекту   | [![Report](https://img.shields.io/badge/-Report-272727?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4IiB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgdmlld0JveD0iMCwwLDI1NiwyNTYiCnN0eWxlPSJmaWxsOiNGRkZGRkY7Ij4KPGcgZmlsbD0iI2ZmZmZmZiIgZmlsbC1ydWxlPSJub256ZXJvIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiIHN0cm9rZS1saW5lam9pbj0ibWl0ZXIiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgc3Ryb2tlLWRhc2hhcnJheT0iIiBzdHJva2UtZGFzaG9mZnNldD0iMCIgZm9udC1mYW1pbHk9Im5vbmUiIGZvbnQtd2VpZ2h0PSJub25lIiBmb250LXNpemU9Im5vbmUiIHRleHQtYW5jaG9yPSJub25lIiBzdHlsZT0ibWl4LWJsZW5kLW1vZGU6IG5vcm1hbCI+PGcgdHJhbnNmb3JtPSJzY2FsZSg1LjEyLDUuMTIpIj48cGF0aCBkPSJNNywydjQ2aDM2di0zMy40MDYyNWwtMC4yODEyNSwtMC4zMTI1bC0xMiwtMTJsLTAuMzEyNSwtMC4yODEyNXpNOSw0aDIwdjEyaDEydjMwaC0zMnpNMzEsNS40Mzc1bDguNTYyNSw4LjU2MjVoLTguNTYyNXpNMTUsMjJ2MmgyMHYtMnpNMTUsMjh2MmgxNnYtMnpNMTUsMzR2MmgyMHYtMnoiPjwvcGF0aD48L2c+PC9nPgo8L3N2Zz4=)](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2001%20(google%20sheets)/report/report.md) |
+| **Report** | Отчёт по проекту   | [Читать отчёт](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2001%20(google%20sheets)/report/report.md) |
