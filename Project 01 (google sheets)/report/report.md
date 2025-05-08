@@ -24,17 +24,17 @@
 <p align="center"><em>Рис 1 – Итоговая таблицы с данными</em></p>
 
 ---
-![alt text](image-1.png)
+![alt text](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2001%20(google%20sheets)/report/2.png)
 <p align="center"><em>Рис 2 – Визуализация антитоп плохо продаваемых товаров по всем кофейням</em></p>
 
 ---
-![alt text](image-2.png)
+![alt text](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2001%20(google%20sheets)/report/3.png)
 <p align="center"><em>Рис 3 – Динамика продаж непопулярных товаров</em></p>
 
 ---
-![alt text](image-3.png)
+![alt text](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2001%20(google%20sheets)/report/4.png)
 <p align="center"><em>Рис 4 - Отчет выручки и кол-ву продаж по всем кофейням</em></p>
 
 ---
-![alt text](image-4.png)
+![alt text](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2001%20(google%20sheets)/report/5.png)
 <p align="center"><em>Рис 5 – Тех. лист для настройки диаграмм</em></p>
