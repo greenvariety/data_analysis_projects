@@ -4,4 +4,4 @@
 | Раздел                   | Описание                                     | Прямые ссылки |
 |--------------------------|----------------------------------------------|---------------|
 | **Report**               | Описание проекта                             | [Читать отчёт](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2003%20(dashboard)/report/report.md) |
-| **Dashboard**            | Интерактивная визуализация данных            | [Просмотреть дашборд](https://datalens.yandex/npqheuyivhay9) |
+| **Dashboard**            | Интерактивная визуализация данных            | [Открыть дашборд](https://datalens.yandex/npqheuyivhay9) |

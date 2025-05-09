@@ -77,14 +77,14 @@
 
 ## Скриншоты проекта:
 
-![Рис. 1 — Время активности объявлений](https://your_link_here.com/task1.png)  
+![Рис. 1 — Время активности объявлений](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2004%20(dbeaver%20sql%20%2B%20ad%20hoc%20%2B%20dashboard)/report/1.png)  
 <p align="center"><em>Рис. 1 — Задача 1: Время активности объявлений</em></p>
 
-![Рис. 2 — Сезонность объявлений](https://your_link_here.com/task2.png)  
+![Рис. 2 — Сезонность объявлений](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2004%20(dbeaver%20sql%20%2B%20ad%20hoc%20%2B%20dashboard)/report/2.png)  
 <p align="center"><em>Рис. 2 — Задача 2: Сезонность объявлений</em></p>
 
-![Рис. 3 — Аналитика рынка недвижимости](https://your_link_here.com/dashboard_analytics.png)  
+![Рис. 3 — Аналитика рынка недвижимости](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2004%20(dbeaver%20sql%20%2B%20ad%20hoc%20%2B%20dashboard)/report/3.png)  
 <p align="center"><em>Рис. 3 — Дашборд, вкладка: «Аналитика рынка недвижимости»</em></p>
 
-![Рис. 4 — Детализация рынка](https://your_link_here.com/dashboard_details.png)  
+![Рис. 4 — Детализация рынка](https://github.com/greenvariety/data_analysis_projects/blob/main/Project%2004%20(dbeaver%20sql%20%2B%20ad%20hoc%20%2B%20dashboard)/report/4.png)  
 <p align="center"><em>Рис. 4 — Дашборд, вкладка: «Детализация рынка»</em></p>
